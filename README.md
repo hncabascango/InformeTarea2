@@ -1,5 +1,28 @@
 # INFORME TAREA 2
 
+**OBJETIVOS**
+
+
+OBJETIVO GENERAL
+
+
+
+OBJETIVOS ESPECÍFICOS
+
+**MARCO TEÓRICO**
+
+
+
+![Diagrama en blanco - Página 1 (2)](https://user-images.githubusercontent.com/105606339/170149510-6202f008-862a-43a9-becc-52e1f0dd126d.png)
+
+
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/105606339/170149531-b844e70a-1586-4b59-afe0-501efa315f7b.png)
+
+
+**EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+
+
 
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
@@ -207,7 +230,9 @@
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5W?
 
 
+**CONCLUSIONES**
 
+**BIBLIOGRAFÍA**
 
 
 
