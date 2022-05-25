@@ -239,26 +239,48 @@ Resistencia:  37.4 Ω
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?6
 
 6. Convierta las siguientes cantidades en kilowatts:
+
 (a) 1000 W
+
+![image](https://user-images.githubusercontent.com/105606339/170215398-5b13c159-26f8-4820-82f7-1ef4a6eb8b56.png)
+
 
 (b) 3750 W
 
+![image](https://user-images.githubusercontent.com/105606339/170215441-dc58b05b-d48e-4cf9-8be8-a2e5bcf2c46e.png)
+
+
 (c) 160 W
+
+![image](https://user-images.githubusercontent.com/105606339/170215476-0e78b162-6963-4300-b404-7b8c1ffa8d75.png)
 
 
 (d) 50,000 W
 
+![image](https://user-images.githubusercontent.com/105606339/170215498-433ae4c7-5aa1-472c-8015-34ac53cba830.png)
 
 
 8. Convierta las siguientes cantidades en miliwatts:
 
 (a) 1 W
 
+![image](https://user-images.githubusercontent.com/105606339/170216567-3aae721e-45e7-4ab6-8baa-a928dde925c8.png)
+
+
 (b) 0.4 W
+
+![image](https://user-images.githubusercontent.com/105606339/170216600-5b07813e-a810-4274-85d7-f4ff20481dd6.png)
+
 
 (c) 0.002 W
 
+![image](https://user-images.githubusercontent.com/105606339/170216626-e5c58e17-f060-4e8b-baa5-3d31d0a0703b.png)
+
+
 (d) 0.0125 W
+
+![image](https://user-images.githubusercontent.com/105606339/170216671-4f413a3f-0d5f-4fcf-a1b4-9bf1377387db.png)
+
 
 10. Convierta las siguientes cantidades en watts:
 
