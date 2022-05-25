@@ -284,16 +284,29 @@ Resistencia:  37.4 Ω
 
 10. Convierta las siguientes cantidades en watts:
 
-(a) 1.5 kW
+(a) 1.5kW
 
-(b) 0.5 MW
+![image](https://user-images.githubusercontent.com/105606339/170343725-ef5e81e8-0886-4f4a-868c-cf328e963abc.png)
+
+
+(b) 0.5MW
+
+![image](https://user-images.githubusercontent.com/105606339/170343767-67f95172-4116-4ff4-8805-ddc8eda4650f.png)
+
 
 (c) 350 mW
 
-(d) 9000 mW
+![image](https://user-images.githubusercontent.com/105606339/170343834-1bad2e90-6ef3-4596-a654-48e46ddf2f71.png)
+
+
+(d) 9000 µW
+
+![image](https://user-images.githubusercontent.com/105606339/170343890-8fc0fff8-8bb1-4456-b764-df7c72daddfb.png)
 
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿Cúantos kilowatts-hora de energía consume?
+
+
 
 14. Convierta 5 x 10^6 watts-minutoos en kWh.
 
