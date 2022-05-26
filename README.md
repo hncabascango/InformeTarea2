@@ -5,12 +5,15 @@
 
 OBJETIVO GENERAL
 
-
+Comprender la relación entre corriente, voltaje y resistencia a través de la lay de Ohm, aportando con estos conceptos a una mejor comprensión de la definición de energía y potencia en un circuito.
 
 OBJETIVOS ESPECÍFICOS
 
+- Calcular valores de la corriente, voltaje y resistencia de un circuito aplicando la ley de Ohm
 
+- Resolver problemas relacionados con la energía y potencia en un circuito eléctrico.
 
+- Comprender la definición de caída de voltaje y aplicarlo en el análisis y resolución de un circuito.
 
 **MARCO TEÓRICO**
 
@@ -25,7 +28,7 @@ CAPÍTULO 4: Energía y Potencia
 
 **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-
+**CAPÍTULO 3**
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
@@ -69,6 +72,7 @@ Calcular el valor de la resistencia.
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo , oro.
 
 Resistencia: 8200 Ω
+
 Tolerancia: ±5%
 
 ![image](https://user-images.githubusercontent.com/105606339/170196826-c7e5a1aa-896d-4a6a-91bf-d8c5fe142b52.png)
@@ -124,7 +128,8 @@ Esta gráfica indica que un cambio en voltaje produce un cambio linealmente prop
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mpinima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
 Resistencia: 3300
-Toleraci: ± 5%
+
+Toleracia: ± 5%
 
 5% de 3300 = 165
 
@@ -142,10 +147,9 @@ Resistencia:  37.4 Ω
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cúal es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
+![image](https://user-images.githubusercontent.com/105606339/170428817-9263b459-648f-41ef-bfbb-d27e06be9096.png)
 
-
-
-
+El fusible deberá ser de 2.5A para proteger el circuito.
 
 24. Calcule el voltaje para cada valor de I y R:
 
@@ -221,22 +225,26 @@ Resistencia:  37.4 Ω
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resitencia desconocida? Trace las conexiones de circuito necesarias.
 
 
+
 34.Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2A. ¿A qué valor de resistenci mínima puede ser ajustado el reóstato sin  que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
 
-
-
+![image](https://user-images.githubusercontent.com/105606339/170433304-aba7bd1a-b315-4a64-b49c-46dc88c9f1bc.png)
 
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
+![image](https://user-images.githubusercontent.com/105606339/170429614-e1d3aca9-a94b-4ee5-8a60-5ca921553030.png)
 
+El cuarto foco es el foco que se encuentra fundido
 
-
-
+**CAPÍTULO 4**
 
 2. Demuestre que hay 3.6 x 10^6 joules en un kilowatt-hora.
 
+![image](https://user-images.githubusercontent.com/105606339/170410634-3aa1a511-e262-41df-a562-e6fc37305313.png)
 
-4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?6
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/105606339/170411212-4ec40bf6-7f04-484d-833d-303ebaf3f098.png)
 
 6. Convierta las siguientes cantidades en kilowatts:
 
@@ -244,21 +252,17 @@ Resistencia:  37.4 Ω
 
 ![image](https://user-images.githubusercontent.com/105606339/170215398-5b13c159-26f8-4820-82f7-1ef4a6eb8b56.png)
 
-
 (b) 3750 W
 
 ![image](https://user-images.githubusercontent.com/105606339/170215441-dc58b05b-d48e-4cf9-8be8-a2e5bcf2c46e.png)
-
 
 (c) 160 W
 
 ![image](https://user-images.githubusercontent.com/105606339/170215476-0e78b162-6963-4300-b404-7b8c1ffa8d75.png)
 
-
 (d) 50,000 W
 
 ![image](https://user-images.githubusercontent.com/105606339/170215498-433ae4c7-5aa1-472c-8015-34ac53cba830.png)
-
 
 8. Convierta las siguientes cantidades en miliwatts:
 
@@ -266,21 +270,17 @@ Resistencia:  37.4 Ω
 
 ![image](https://user-images.githubusercontent.com/105606339/170216567-3aae721e-45e7-4ab6-8baa-a928dde925c8.png)
 
-
 (b) 0.4 W
 
 ![image](https://user-images.githubusercontent.com/105606339/170216600-5b07813e-a810-4274-85d7-f4ff20481dd6.png)
-
 
 (c) 0.002 W
 
 ![image](https://user-images.githubusercontent.com/105606339/170216626-e5c58e17-f060-4e8b-baa5-3d31d0a0703b.png)
 
-
 (d) 0.0125 W
 
 ![image](https://user-images.githubusercontent.com/105606339/170216671-4f413a3f-0d5f-4fcf-a1b4-9bf1377387db.png)
-
 
 10. Convierta las siguientes cantidades en watts:
 
@@ -288,72 +288,87 @@ Resistencia:  37.4 Ω
 
 ![image](https://user-images.githubusercontent.com/105606339/170343725-ef5e81e8-0886-4f4a-868c-cf328e963abc.png)
 
-
 (b) 0.5MW
 
 ![image](https://user-images.githubusercontent.com/105606339/170343767-67f95172-4116-4ff4-8805-ddc8eda4650f.png)
-
 
 (c) 350 mW
 
 ![image](https://user-images.githubusercontent.com/105606339/170343834-1bad2e90-6ef3-4596-a654-48e46ddf2f71.png)
 
-
 (d) 9000 µW
 
 ![image](https://user-images.githubusercontent.com/105606339/170343890-8fc0fff8-8bb1-4456-b764-df7c72daddfb.png)
 
-
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿Cúantos kilowatts-hora de energía consume?
 
+![image](https://user-images.githubusercontent.com/105606339/170411601-98066397-99c4-48c4-a5d0-68b6f390e85c.png)
 
+14. Convierta 5 x 10^6 watts-minutos en kWh.
 
-14. Convierta 5 x 10^6 watts-minutoos en kWh.
-
+![image](https://user-images.githubusercontent.com/105606339/170434259-7740fdd6-9fd9-4355-a883-608758ed0528.png)
 
 16. ¿Durante cúantos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J ?
 
+![image](https://user-images.githubusercontent.com/105606339/170415726-b312e0ab-a129-4358-9093-5b71111b0bc3.png)
 
 18. Si un resistor tiene 5.5V entre sus extremos y 3 mA a través de él, ¿cúal es la potencia?
 
-
+![image](https://user-images.githubusercontent.com/105606339/170416012-2ef80920-f174-49a2-9f55-ac47091d7573.png)
 
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7  kΩ ?
 
+![image](https://user-images.githubusercontent.com/105606339/170416486-a450f874-9084-429d-8bdc-ed1f0741a001.png)
 
-22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+22. Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?
  
-
+![image](https://user-images.githubusercontent.com/105606339/170416893-97871749-8957-4b04-a626-f972424f339e.png)
 
 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser ? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
-
-
-
+![image](https://user-images.githubusercontent.com/105606339/170417397-853f110f-713f-40fd-887d-261867f1df4d.png)
 
 26. Un resistor de 6.8 kΩ se quemó en un circuito.  Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
+El resistor deberá disipar 0.68 W por lo tanto su clasificación de potencia deberá ser mayor, en este caso se necesitará de 1W
+
+![image](https://user-images.githubusercontent.com/105606339/170418429-f411fb9e-2c58-440d-933e-7ab5ce6217b0.png)
 
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
+![image](https://user-images.githubusercontent.com/105606339/170420508-95b1fa20-db81-4e79-9bda-23725021c9d7.png)
 
 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
-
+![image](https://user-images.githubusercontent.com/105606339/170425176-aa047b69-6a57-4da5-8443-28a1a6f7caf4.png)
 
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
+![image](https://user-images.githubusercontent.com/105606339/170422741-5a875ed3-0aba-4497-b929-fb08d12f34df.png)
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
-
+![image](https://user-images.githubusercontent.com/105606339/170423255-2f63c18b-d762-4cad-81cf-3a9c3e4e9dde.png)
 
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5W?
+
+![image](https://user-images.githubusercontent.com/105606339/170422127-885e9ca3-dd64-41b2-a758-37ae7e00bd39.png)
 
 
 **CONCLUSIONES**
 
+- Se ha logrado resolver correctamente los ejercicios relaciones con la ley de Ohm planteados en el capítulo 3.
+- Se ha comprendido correctamente la definición de energía y potencia logrando así resolver los ejercicios planteados.
+
 **BIBLIOGRAFÍA**
+
+(25 de Agosto de 2009). Obtenido de http://recursostic.educacion.es/newton/web/materiales_didacticos/EDAD_4eso_trabajo_energia/impresos/quincena6.pdf
+
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
+
+José, I. (28 de Marzo de 2007). Universidad de Granada. Obtenido de https://www.ugr.es/~pittau/FISBIO/t3.pdf
+
+Torres Ortega Héctor Hugo, M. E. (24 de Enero de 2018). hetpro store. Obtenido de https://hetpro-store.com/PDFs/La-Ley-de-Ohm.pdf?x18372#:~:text=La%20%E2%80%8Bley%20de%20ohm,va%20funcionar%20antes%20de%20conectar.
 
 
 
