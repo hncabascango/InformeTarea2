@@ -222,9 +222,6 @@ El fusible deberá ser de 2.5A para proteger el circuito.
 
 ![image](https://user-images.githubusercontent.com/105606339/170211102-0d6f2baf-6aa7-457d-87e1-557b3d09c080.png)
 
-32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resitencia desconocida? Trace las conexiones de circuito necesarias.
-
-
 
 34.Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2A. ¿A qué valor de resistenci mínima puede ser ajustado el reóstato sin  que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
 
